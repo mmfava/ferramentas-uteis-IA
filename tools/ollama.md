@@ -1,23 +1,30 @@
 ---
-title: ollama
+title: ollama/ollama
 owner: ollama
 source: https://github.com/ollama/ollama
-description: Plataforma que facilita a execução de modelos de inteligência artificial localmente no seu computador. Ele permite que você baixe e execute modelos de IA sem a necessidade de uma conexão com a internet, garantindo mais privacidade e controle sobre os dados. Além disso, o Ollama oferece uma interface amigável para gerenciar e interagir com esses modelos, tornando mais acessível o uso de IA para desenvolvedores e entusiastas.
+description: Get up and running with Llama 3.3, Mistral, Gemma 2, and other large language models.
 stars: 106
 tags:
-  - llm-plataform
+  - go
+  - golang
   - llama
-  - phi
   - gemma
   - mistral
-  - solar
+  - llm
+  - llms
+  - llava
+  - llama2
+  - ollama
+  - llama3
+  - phi3
+  - gemma2
 created: 2025-01-07
+resume: Ollama é uma plataforma para executar modelos de linguagem localmente, disponível em macOS, Windows e Linux. Oferece modelos como Llama e permite personalizações.
 aliases:
-  - llm-plataform
 ---
 ## README
 
-[![ollama](https://private-user-images.githubusercontent.com/3325447/254932576-0d0b44e2-8f4a-4e99-9b52-a5c1c741c8f7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzYyNzA2NTksIm5iZiI6MTczNjI3MDM1OSwicGF0aCI6Ii8zMzI1NDQ3LzI1NDkzMjU3Ni0wZDBiNDRlMi04ZjRhLTRlOTktOWI1Mi1hNWMxYzc0MWM4ZjcucG5nP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI1MDEwNyUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNTAxMDdUMTcxOTE5WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9YzY4YzdjMDU2YjhhMDc3ODhhMDBhMTA5MDVmN2MzOWE1YjA5MDU5ZGFhYmIwOWZlNDViN2QzZGVhMDNkOTFhNSZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.zOI6NNhKzWwk-VZ6S--Pt5mo-PeUItkMWLSDo4FJCLI)](https://ollama.com/)
+[![ollama](https://private-user-images.githubusercontent.com/3325447/254932576-0d0b44e2-8f4a-4e99-9b52-a5c1c741c8f7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzYyNzc1MzEsIm5iZiI6MTczNjI3NzIzMSwicGF0aCI6Ii8zMzI1NDQ3LzI1NDkzMjU3Ni0wZDBiNDRlMi04ZjRhLTRlOTktOWI1Mi1hNWMxYzc0MWM4ZjcucG5nP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI1MDEwNyUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNTAxMDdUMTkxMzUxWiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9NjRhZmRiMGRhMTY5MDVkN2Q5MDI0NzgyOTM5MGI2YzU3ZDRlMGM1NTVjMjY2ZDFiOTUwMmQzZjEzNjUwMjIwNyZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.YdIPa9c4OWuPXnxkgoWtbnX8K_Uq9Rlh3NDl3NQZyEw)](https://ollama.com/)
 
 # Ollama
 

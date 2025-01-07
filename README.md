@@ -8,14 +8,13 @@ Utilizando o Obsidian para gerenciamento de notas e o Obsidian Web Clipper para 
 
 # Documentados 
 
-<!-- QueryToSerialize: TABLE title, description FROM "tools" -->
-<!-- SerializedQuery: TABLE title, description FROM "tools" -->
+<!-- QueryToSerialize: TABLE title, resume FROM "tools" -->
+<!-- SerializedQuery: TABLE title, resume FROM "tools" -->
 
-| File                                          | title      | description                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| --------------------------------------------- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[neumlannotateai]] | annotateai | Automatically annotate papers using LLMs                                                                                                                                                                                                                                                                                                                                                                                                    |
-| [[ollama]]                   | ollama     | Plataforma que facilita a execução de modelos de inteligência artificial localmente no seu computador. Ele permite que você baixe e execute modelos de IA sem a necessidade de uma conexão com a internet, garantindo mais privacidade e controle sobre os dados. Além disso, o Ollama oferece uma interface amigável para gerenciar e interagir com esses modelos, tornando mais acessível o uso de IA para desenvolvedores e entusiastas. |
+| File                                          | title            | resume                                                                                                                                                             |
+| --------------------------------------------- | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [[neumlannotateai]] | neuml/annotateai | `annotateai` automatiza a anotação de artigos científicos usando LLMs, fornecendo contexto e resumo para facilitar a leitura.                                      |
+| [[ollama]]                   | ollama/ollama    | Ollama é uma plataforma para executar modelos de linguagem localmente, disponível em macOS, Windows e Linux. Oferece modelos como Llama e permite personalizações. |
 <!-- SerializedQuery END -->
-
 
 

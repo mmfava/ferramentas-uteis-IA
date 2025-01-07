@@ -1,17 +1,20 @@
 ---
-title: annotateai
+title: neuml/annotateai
 owner: neuml
 source: https://github.com/neuml/annotateai
-description: Automatically annotate papers using LLMs
+description: 📝 Automatically annotate papers using LLMs
 stars: 245
 tags:
-  - llm-tool
-  - scientific-paper
-  - annotate-papers
-  - "#tag"
+  - nlp
+  - artificial-intelligence
+  - scientific-papers
+  - vector-search
+  - large-language-models
+  - llm
+  - python
 created: 2025-01-07
+resume: "`annotateai` automatiza a anotação de artigos científicos usando LLMs, fornecendo contexto e resumo para facilitar a leitura."
 aliases:
-  - llm-tool
 ---
 ## README
 
