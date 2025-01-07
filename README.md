@@ -1,8 +1,8 @@
 # Ferramentas de IA & Dados
 
-O proposito desse repositório é o de gerar uma coleção de informações sobre Modelos de Linguagem de Grande Escala (LLMs) e ferramentas baseadas em Inteligência Artificial e Análise de Dados. 
+O propósito deste repositório é criar uma coleção de informações sobre *Large Language Models* (LLMs) e ferramentas baseadas em Inteligência Artificial e Análise de Dados.
 
-Utilizando o Obsidian para gerenciamento de notas e o Obsidian Web Clipper para captura de conteúdo, este projeto visa facilitar a extração e o armazenamento de dados relevantes de forma estruturada e acessível.
+O projeto usa o Obsidian para gerenciamento de notas e o Obsidian Web Clipper para captura de conteúdo, facilitando a extração e o armazenamento de dados relevantes de forma estruturada e acessível.
 
 > Template do obsidian web-clipper no diretório [templates](../templates).
 
